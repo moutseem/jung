@@ -1,4 +1,7 @@
-  push:
+name: CI/CD to PCF with Docker
+
+on:
+ push:
     branches:
       - main
 
