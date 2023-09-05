@@ -46,3 +46,5 @@ RUN npm run build
 
 # Start your application
 CMD ["./entrypoint.sh"]
+
+
